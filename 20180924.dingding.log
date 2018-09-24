@@ -1,0 +1,8 @@
+[Info]D:/godata/golearn/4.常用示例/zabbix叮叮告警/main.go:20: message send start!
+[Info]D:/godata/golearn/4.常用示例/zabbix叮叮告警/main.go:53: 消息发送完成：{"errmsg":"ok","errcode":0}
+[Info]2018/09/24 15:57:49 main.go:20: message send start!
+[Info]2018/09/24 15:57:49 main.go:53: 消息发送完成：{"errmsg":"ok","errcode":0}
+[Info]2018/09/24 15:58:13 message send start!
+[Info]2018/09/24 15:58:13 消息发送完成：{"errmsg":"ok","errcode":0}
+[Info]2018/09/24 15:58:41 开始发送消息!
+[Info]2018/09/24 15:58:41 消息发送完成：{"errmsg":"ok","errcode":0}
